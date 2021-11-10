@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\sebet\OneDrive\Documents\CodeProjects\BoardFootCalculator\Dimensions.cs" Link="Dimensions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MiNET" Version="1.0.2283" />
+    <PackageReference Include="PayPal" Version="1.9.1" />
+  </ItemGroup>
+
+</Project>
