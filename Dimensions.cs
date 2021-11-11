@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BoardFootCalculator
 {
-    class Dimensions
+    public class Dimensions
     {
         public int Id { get; set; }
         public double width { get; set; }

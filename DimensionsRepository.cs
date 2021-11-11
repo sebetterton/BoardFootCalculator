@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BoardFootCalculator
 {
-    class DimensionsRepository
+    public class DimensionsRepository
     {
         public List<Dimensions> _dimensions;
         public DimensionsRepository()
