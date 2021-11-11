@@ -8,6 +8,7 @@ namespace BoardFootCalculator
 {
     class Dimensions
     {
+        public int Id { get; set; }
         public double width { get; set; }
         public double length { get; set; }
         public double thickness { get; set; }
